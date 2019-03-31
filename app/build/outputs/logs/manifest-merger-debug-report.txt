@@ -1,0 +1,145 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:2:1-68:12
+INJECTED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:2:1-68:12
+INJECTED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:2:1-68:12
+INJECTED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:2:1-68:12
+INJECTED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:2:1-68:12
+INJECTED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:2:1-68:12
+INJECTED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:2:1-68:12
+	package
+		ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:3:5-32
+		INJECTED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:5:5-32
+		INJECTED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:7:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:8:5-74
+	android:name
+		ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:8:22-71
+uses-feature#android.hardware.bluetooth_le
+ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:10:5-12:35
+	android:required
+		ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:12:9-32
+	android:name
+		ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:11:9-53
+application
+ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:14:5-66:23
+	android:label
+		ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:16:9-45
+	android:allowBackup
+		ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:19:9-40
+	android:name
+		ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:18:9-62
+activity#com.tumaku.msmble.MainActivity
+ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:20:9-27:20
+	android:label
+		ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:22:13-45
+	android:name
+		ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:21:13-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:25:27-74
+activity#com.tumaku.msmble.DeviceActivity
+ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:28:9-31:20
+	android:label
+		ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:30:13-45
+	android:name
+		ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:29:13-60
+activity#com.tumaku.msmble.ServiceActivity
+ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:32:9-35:20
+	android:label
+		ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:34:13-45
+	android:name
+		ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:33:13-61
+activity#com.tumaku.msmble.ControlLightActivity
+ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:36:9-39:21
+	android:label
+		ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:38:13-52
+	android:name
+		ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:37:13-66
+activity#com.tumaku.msmble.SensorTagActivity
+ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:40:9-43:21
+	android:label
+		ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:42:13-53
+	android:name
+		ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:41:13-63
+activity#com.tumaku.msmble.TethercellActivity
+ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:44:10-47:21
+	android:label
+		ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:46:13-54
+	android:name
+		ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:45:13-64
+activity#com.tumaku.msmble.HM10Activity
+ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:48:10-51:21
+	android:label
+		ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:50:13-48
+	android:name
+		ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:49:13-58
+activity#com.tumaku.msmble.BLEduinoUartActivity
+ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:52:10-55:21
+	android:label
+		ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:54:13-56
+	android:name
+		ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:53:13-66
+receiver#com.tumaku.msmble.MessageReceiver
+ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:56:10-60:20
+	android:enabled
+		ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:56:52-74
+	android:name
+		ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:56:20-51
+intent-filter#action:name:com.yeelight.DEVICE_FOUND
+ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:57:13-59:29
+action#com.yeelight.DEVICE_FOUND
+ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:58:17-75
+	android:name
+		ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:58:25-65
+receiver#com.tumaku.msmble.DeviceMessageReceiver
+ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:61:9-65:20
+	android:enabled
+		ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:61:57-79
+	android:name
+		ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:61:19-56
+intent-filter#action:name:com.yeelight.blue.DEVICE_CONNECTED
+ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:62:13-64:29
+action#com.yeelight.blue.DEVICE_CONNECTED
+ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:63:17-84
+	android:name
+		ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml:63:25-74
+uses-sdk
+INJECTED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml
+INJECTED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml
+INJECTED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml
+INJECTED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml
+		ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml
+		ADDED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/yuron/AndroidStudioProjects/MSMBle1/app/src/main/AndroidManifest.xml
